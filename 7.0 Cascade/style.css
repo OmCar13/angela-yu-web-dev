@@ -1,0 +1,25 @@
+#outer-box {
+  background-color: purple;
+  padding: 30px;
+}
+
+#inner-box {
+  background-color: red;
+}
+
+.box {
+  background-color: blue;
+  padding: 20px;
+}
+
+
+
+p {
+  color: rgb(62, 248, 62);
+  padding: 0;
+  margin: 0;
+}
+
+.white-text {
+  color: white;
+}

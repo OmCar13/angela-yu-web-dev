@@ -63,6 +63,7 @@ footer {
 }
 
 .drum {
+  cursor: pointer;
   outline: none;
   border: 10px solid #404B69;
   font-size: 5rem;
@@ -78,4 +79,9 @@ footer {
   text-align: center;
   margin: 10px;
   background-color: white;
+  box-shadow: 0 9px #999;
+}
+.drum:active, .drum:active {
+  box-shadow: 0 5px #666;
+  transform: translateY(4px);
 }
